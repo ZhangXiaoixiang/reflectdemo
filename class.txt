@@ -1,0 +1,2 @@
+classname=com.demo.Student
+methodname=sayHi
